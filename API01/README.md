@@ -74,4 +74,4 @@ Neste projeto desempenhei o papel de desenvolvedor, desenvolvendo paginas e ajud
 ## Soft Skills
  - **Comunicação:** Comunicação de forma clara e assertiva para passar os feedbacks aos colegas de equipe e para as apresentações das sprints; <br>
  - **Organização:** Mantendo uma padronização e organização de código; <br>
- - **Trabalho em Equipe:** Trabalho em euiqpe para uma melhor otimização de tempo e conhecimento do time de desenvolvimento. <br>
+ - **Trabalho em Equipe:** Trabalho em equipe para uma melhor otimização de tempo e conhecimento do time de desenvolvimento. <br>
