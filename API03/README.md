@@ -43,14 +43,10 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 <br>
   - **Discord:** Para reuniões;
   - **WhatsApp:** Para troca de mensagens e avisos;
-  - **HTML5:** Marcação do layout e importação dos componentes do website; 
-  - **CSS3:** Estilização o site;
   - **JavaScript:** Animações e interações com o usuário, como os botões;
-  - **Bootstrap:** Desenvolvimento de componentes;
   - **NodeJS:** Desenvolvimento back-end;
   - **PostgreSQL:** Armazenamento e manipulação de dados;
-  - **Figma:** Criação do protótipo navegável;
-  - **Canva:** Edição das imagens e criação das apresentações;
+  - **Slack:** Comunicação com o cliente;
   - **Github:** Controle de versão;
   - **Visual Studio Code:** IDE para o desenvolvimento.
   
@@ -65,15 +61,14 @@ Durante o projeto, atuei como Product Owner, facilitando a comunicação entre o
 <br>
 
 ## Hard Skills
-- **Dominio de HTML5:** Sei fazer com auxílio de consultas; <br>
-- **Dominio de CSS3:** Sei fazer com auxílio de consultas; <br>
 - **Manipulação de entradas com Javascript:** Sei fazer com autonomia; <br>
-- **Manipulação do Bootstrap:** Sei fazer com auxílio de consultas; <br>
-- **Criação de gráficos com o Matplotlib:** Sei fazer com autonomia; <br>
-- **Manipulação do Flask:** Sei fazer com auxílio de consultas; <br>
-- **Criação de Wireframe com Figma:** Sei fazer com auxílio de consultas; <br>
-- **Edição de imagens com Canva:** Sei fazer com auxílio de consultas; <br>
+- **Utilização do bcrypt para criptografia de senhas:** Sei fazer com auxílio de consultas; <br>
+- **Manipulação do Express.js para criação de rotas e utilização do CORS para lidar com requisições de diferentes origens:** Sei fazer com auxílio de consultas; <br>
+- **Uso do dotenv para gestão de variáveis de ambiente:** Sei fazer com auxílio de consultas; <br>
+- **Implementação de autenticação com jsonwebtoken:** Sei fazer com auxílio de consultas; <br>
+- **Integração com banco de dados utilizando pg (PostgreSQL):** Sei fazer com auxílio de consultas; <br>
 - **Controle de versão com o Github:** Sei fazer com auxílio de consultas. <br>
+
 
 
 ## Soft Skills
