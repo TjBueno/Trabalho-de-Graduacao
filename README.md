@@ -30,6 +30,8 @@
  | :---         | :---      |
  | [1° Semestre](https://github.com/TjBueno/Trabalho-de-Gradua-o/tree/main/API01)   | Website para catalogar vagas de emprego |
  | [2° Semestre](https://github.com/TjBueno/Trabalho-de-Gradua-o/tree/main/API02)   | Sistema de Conciliação Financeira para Vendedores |
+ | [3° Semestre](https://github.com/TjBueno/Trabalho-de-Gradua-o/tree/main/API03)   | Serviço de Gerenciamento e Autenticação de Usuários |
+ | [4° Semestre](https://github.com/TjBueno/Trabalho-de-Gradua-o/tree/main/API04)   | Plataforma de Gestão de Créditos para Reciclagem de Óleo |
 
  
 </div>
