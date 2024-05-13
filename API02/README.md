@@ -9,9 +9,7 @@
 <div align="justify">
   Parceiro acadêmico: TrackCash
   <br><br>
-  O tema desenvolvido envolve vendedores de lojas online e físicas. Para realizar o processo de conciliação financeira, precisa-se das informações dessas vendas. Para isso, os vendedores configuram seus dados, concedendo autorização para que o sistema acesse APIs e planilhas de forma automatizada. Essas autorizações são concedidas por meio da recepção de tokens e usuários de acesso.  <br><br>
-  Visualmente deveria conter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação. Além de no mínimo 5 páginas.
-<div><br>
+  O tema desenvolvido envolve vendedores de lojas online e físicas. Para realizar o processo de conciliação financeira, precisa-se das informações dessas vendas. Para isso, os vendedores configuram seus dados, concedendo autorização para que o sistema acesse APIs e planilhas de forma automatizada. Essas autorizações são concedidas por meio da recepção de tokens e usuários de acesso.  
   
 > [Repositório oficial do projeto](https://github.com/atomofatec/API-TRACKCASH).
 
