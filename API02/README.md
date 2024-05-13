@@ -13,7 +13,7 @@
   Visualmente deveria conter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação. Além de no mínimo 5 páginas.
 <div><br>
   
-> [Repositório oficial do projeto](https://github.com/Fiv5TechCo/API-1ADS-2022-1).
+> [Repositório oficial do projeto](https://github.com/atomofatec/API-TRACKCASH).
 
 <br>
 
