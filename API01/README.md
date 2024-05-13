@@ -54,7 +54,7 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto desempenhei o papel de desenvolvedor, desenvolvendo paginas e ajudando no processo de cria;áo de métricas para o site.
+Neste projeto desempenhei o papel de desenvolvedor, desenvolvendo paginas e ajudando no processo de criação de métricas para o site.
 <div>
 
 <br>
