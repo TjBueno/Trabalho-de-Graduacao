@@ -54,7 +54,7 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto desempenhei o papel de desenvolvedor, desenvolvendo paginas e ajudando no processo de criação de métricas para o site.
+Neste projeto desempenhei o papel de desenvolvedor, desenvolvendo paginas e ajudando no processo de criação de métricas para o site como adição de imagens a pagina métricas e criação de css, criação de dinâmica de gráficos e adição do arquivo para gerar o gráfico.
 <div>
 
 <br>
@@ -72,6 +72,6 @@ Neste projeto desempenhei o papel de desenvolvedor, desenvolvendo paginas e ajud
 
 
 ## Soft Skills
- - **Comunicação:** Comunicação de forma clara e assertiva para passar os feedbacks aos colegas de equipe e para as apresentações das sprints; <br>
+ - **Comunicação:** Comunicação de forma clara e assertiva para passar os feedbacks aos colegas de equipe e para as apresentações das sprints (Um exemplo foi o retrabalho de algumas entregas que não estavam de acordo com o projeto e o grupo resolveu mudar para a proxima sprint); <br>
  - **Organização:** Mantendo uma padronização e organização de código; <br>
  - **Trabalho em Equipe:** Trabalho em equipe para uma melhor otimização de tempo e conhecimento do time de desenvolvimento. <br>
