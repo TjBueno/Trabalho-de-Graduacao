@@ -47,7 +47,7 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Durante o projeto, atuei como Desenvolvedor, seguindo a Metodologia Ágil Scrum. Nesse papel, minha responsabilidade principal foi trabalhar no backend para desenvolver as funcionalidades necessárias. Colaborei com outros membros do time Scrum para implementar as tarefas definidas para o projeto. Minha principal área de atuação foi no desenvolvimento do backend, onde concentrei meus esforços para garantir um sistema robusto e eficiente. Também fiz contribuições pontuais no tratamento de usuários em partes específicas do sistema.
+Durante o projeto, atuei como Desenvolvedor, seguindo a Metodologia Ágil Scrum. Nesse papel, minha responsabilidade principal foi trabalhar no backend para desenvolver as funcionalidades necessárias. Colaborei com outros membros do time Scrum para implementar as tarefas definidas para o projeto. Minha principal área de atuação foi no desenvolvimento do backend, onde concentrei meus esforços para garantir um sistema robusto e eficiente. Atuei utilizando java e a IDE Netbeans na criação de sessão de usuario, barra de pesquisa e barra de pesquisa de configurações ativas,
 <div>
 
 <br>
