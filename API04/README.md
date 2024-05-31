@@ -96,3 +96,4 @@ Durante o meu trabalho com Node.js, concentrei-me em aprimorar a eficiência e a
  - **Comunicação:** Comunicação de forma clara e assertiva para passar os feedbacks aos colegas de equipe e para as apresentações das sprints; <br>
  - **Organização:** Mantendo uma padronização e organização de código; <br>
  - **Trabalho em Equipe:** Trabalho em equipe para uma melhor otimização de tempo e conhecimento do time de desenvolvimento. <br>
+ - **Criatividade:** Minha capacidade criativa foi explorada ao contribuir para a criação do backend com novas soluções e para resolver bugs no decorrer do projeto. <br>
