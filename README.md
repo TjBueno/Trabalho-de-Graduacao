@@ -37,4 +37,15 @@
 </div>
 
  ##
+
+<h3 align="left"> 	Conhecimentos </h3>   
+
+- **Python, Pandas e processo ETL**
+- **Integração e consumo de dados via APIs REST**
+- **Coleta de dados por meio de APIs e Web Scraping**
+- **Limpeza e tratamento minuciosos para assegurar a integridade dos dados**
+- **Matplotlib e Plotly para visualizações impactantes**
+- **SQL para manipulação de bancos de dados**
+- **Git para controle de versão e repositórios no GitHub**
+
  
