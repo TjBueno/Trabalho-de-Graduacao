@@ -11,7 +11,11 @@
   <br>
   Professor responsável: Antonio Egydio
   <br><br>
-  O projeto, desenvolvido em parceria com a FATEC São José dos Campos, visou criar um website para automatizar a catalogação de vagas, com foco em oportunidades de TI. A plataforma centraliza informações sobre requisitos, habilidades e competências, permitindo a classificação por métricas configuráveis. Além de simplificar a busca e filtragem de vagas, o site apresenta dados estratégicos em gráficos, oferecendo insights sobre tendências e demandas do mercado. O design foi planejado para oferecer alta usabilidade e visualização intuitiva das informações, com uma estrutura mínima de cinco páginas, incluindo uma página inicial, seção de vagas, gráficos, detalhes das vagas, e contato. 
+  
+  Problema: O projeto deveria apresentar visualmente informações estratégicas (gráficos), ser de fácil usabilidade e operação, e incluir, no mínimo, cinco páginas para atender às expectativas dos usuários e cumprir os requisitos funcionais e de navegação.
+  <br><br>
+  Projeto: O projeto, desenvolvido em parceria com a FATEC São José dos Campos, visou criar um website para automatizar a catalogação de vagas, com foco em oportunidades de TI. A plataforma centraliza informações sobre requisitos, habilidades e competências, permitindo a classificação por métricas configuráveis. Além de simplificar a busca e filtragem de vagas, o site apresenta dados estratégicos em gráficos, oferecendo insights sobre tendências e demandas do mercado. O design foi planejado para oferecer alta usabilidade e visualização intuitiva das informações, com uma estrutura mínima de cinco páginas, incluindo uma página inicial, seção de vagas, gráficos, detalhes das vagas e contato.
+
   <br><br>
   Visualmente deveria conter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação. Além de no mínimo 5 páginas.
 <div><br>
