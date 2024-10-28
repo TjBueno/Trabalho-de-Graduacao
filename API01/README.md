@@ -8,8 +8,10 @@
 
 <div align="justify">
   Parceiro acadêmico: FATEC São José dos Campos - SP
+  <br>
+  Professor responsável: Antonio Egydio
   <br><br>
-  O tema desenvolvido foi a criação de um Website para automatizar o processo de catalogar vagas de diversas profissões principalmente TI - configuração de métricas para pontos como tipos de conhecimento, habilidades e competências. 
+  O projeto, desenvolvido em parceria com a FATEC São José dos Campos, visou criar um website para automatizar a catalogação de vagas, com foco em oportunidades de TI. A plataforma centraliza informações sobre requisitos, habilidades e competências, permitindo a classificação por métricas configuráveis. Além de simplificar a busca e filtragem de vagas, o site apresenta dados estratégicos em gráficos, oferecendo insights sobre tendências e demandas do mercado. O design foi planejado para oferecer alta usabilidade e visualização intuitiva das informações, com uma estrutura mínima de cinco páginas, incluindo uma página inicial, seção de vagas, gráficos, detalhes das vagas, e contato. 
   <br><br>
   Visualmente deveria conter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação. Além de no mínimo 5 páginas.
 <div><br>
@@ -73,5 +75,5 @@ Neste projeto desempenhei o papel de desenvolvedor, desenvolvendo paginas e ajud
 
 ## Soft Skills
  - **Comunicação:** Comunicação de forma clara e assertiva para passar os feedbacks aos colegas de equipe e para as apresentações das sprints (Um exemplo foi o retrabalho de algumas entregas que não estavam de acordo com o projeto e o grupo resolveu mudar para a proxima sprint); <br>
- - **Organização:** Mantendo uma padronização e organização de código; <br>
- - **Trabalho em Equipe:** Trabalho em equipe para uma melhor otimização de tempo e conhecimento do time de desenvolvimento. <br>
+ - **Organização:** Manter uma padronização e organização no código, garantindo que todos os membros da equipe consigam entender e dar continuidade no trabalho. Por exemplo, durante o desenvolvimento, foi estabelecido um padrão de nomenclatura para variáveis e funções, evitando confusões e facilitando o trabalho de revisões de código; <br>
+ - **Trabalho em Equipe:** Colaborar de forma ativa para otimizar o tempo e o conhecimento entre os membros do time de desenvolvimento. Um exemplo foi o uso de pair programming durante a resolução de bugs críticos, permitindo que diferentes perspectivas acelerassem a resolução de problemas complexos e aumentassem o aprendizado compartilhado. <br>
