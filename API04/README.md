@@ -9,8 +9,9 @@
 <div align="justify">
   Parceiro acadêmico: Greenneat
   <br><br>
-  
-  O projeto tem como objetivo abordar a problemática da baixa taxa de reutilização de óleo vegetal no Brasil, estimada em meros 2% do consumo total. Essa eliminação é comumente realizada por estabelecimentos gastronômicos e recolhida por cooperativas ou profissionais independentes, sendo então encaminhada para instalações de produção de biodiesel. O Sistema Circular de Produção de Produtos de Limpeza a partir de Óleo Reciclado busca engajar os diversos participantes da cadeia de descarte e reaproveitamento do óleo de cozinha usado. O grande desafio reside em elaborar uma plataforma que administre pontos concedidos aos colaboradores da Greenneat, encarregados da coleta nos locais registrados. Esses pontos poderão ser posteriormente empregados na aquisição de produtos de limpeza na loja online, incentivando a reutilização do óleo e fomentando a preservação ambiental.
+  Problema: O projeto "Sistema Circular de Produção de Saneantes a partir de Óleo Recuperado" tinha como objetivo engajar os agentes envolvidos na cadeia de descarte e reciclagem do óleo de fritura usado. O desafio era desenvolver uma plataforma para gerenciar créditos destinados aos estabelecimentos cadastrados, que seriam atribuídos no momento da coleta do óleo pelo parceiro da Greenneat. Esses créditos poderiam, então, ser usados para adquirir saneantes na loja virtual.
+  <br><br>
+  Projeto: O projeto tem como objetivo abordar a problemática da baixa taxa de reutilização de óleo vegetal no Brasil, estimada em meros 2% do consumo total. Essa eliminação é comumente realizada por estabelecimentos gastronômicos e recolhida por cooperativas ou profissionais independentes, sendo então encaminhada para instalações de produção de biodiesel. O Sistema Circular de Produção de Produtos de Limpeza a partir de Óleo Reciclado busca engajar os diversos participantes da cadeia de descarte e reaproveitamento do óleo de cozinha usado. O grande desafio reside em elaborar uma plataforma que administre pontos concedidos aos colaboradores da Greenneat, encarregados da coleta nos locais registrados. Esses pontos poderão ser posteriormente empregados na aquisição de produtos de limpeza na loja online, incentivando a reutilização do óleo e fomentando a preservação ambiental.
   <br>
 <div><br>
   
