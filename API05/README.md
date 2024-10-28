@@ -9,8 +9,9 @@
 <div align="justify">
   Parceiro acadêmico: Oracle
   <br><br>
-  
-  O projeto consiste em um sistema de gestão de parceiros para a Oracle em plataforma mobile. Este sistema é responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes.
+  Problema: O desafio surgiu da necessidade de automatizar e simplificar o gerenciamento dos parceiros registrados no programa Oracle PartnerNetwork. A proposta foi desenvolver um sistema em plataforma mobile que permitisse o cadastro de novos parceiros, a atualização de informações, o acompanhamento do desenvolvimento de competências dos parceiros e a geração de relatórios relevantes.
+  <br><br>
+  Projeto: O projeto consiste em um sistema de gestão de parceiros para a Oracle em plataforma mobile. Este sistema é responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes.
   <br>
 <div><br>
   
