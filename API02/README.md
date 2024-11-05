@@ -64,3 +64,4 @@ Durante o projeto, atuei como Desenvolvedor, seguindo a Metodologia Ágil Scrum.
  - **Comunicação:** Comunicação de forma clara e assertiva para passar os feedbacks aos colegas de equipe e para as apresentações das sprints; <br>
  - **Organização:** Mantendo uma padronização e organização de código; <br>
  - **Trabalho em Equipe:** Trabalho em equipe para uma melhor otimização de tempo e conhecimento do time de desenvolvimento. <br>
+ - **Adaptação:** Foi um semestre onde foi introduzida uma nova linguagem (Java) e uma nova IDE (Netbeans), então precisei me adaptar para conseguir atender as expectativas do cliente e do scrum team. <br>
