@@ -79,4 +79,4 @@ Apesar de ser uma aplicação mobile, o backend não varia muito, então durante
  - **Resiliência:** Dificuldades e adversidades foram encaradas ao longo do projeto com firmeza e persistência, mantendo o compromisso com as metas e buscando soluções alternativas para superar barreiras.; <br>
  - **Organização:** Mantendo uma padronização e organização de código; <br>
  - **Resolução de problemas:** Durante o desenvolvimento, dificuldades e desafios relacionados à linguagem e à aplicação, bem como problemas internos no grupo, exigiram identificação rápida e soluções eficazes para que tudo fosse entregue conforme o planejado.. <br>
- - **Criatividade:** Minha capacidade criativa foi explorada ao contribuir para a criação do backend com novas soluções e para resolver bugs no decorrer do projeto. <br>
+
