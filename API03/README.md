@@ -77,3 +77,4 @@ Durante o projeto, atuei como Product Owner, facilitando a comunicação entre o
  - **Comunicação:** Comunicação de forma clara e assertiva para passar os feedbacks aos colegas de equipe e para as apresentações das sprints; <br>
  - **Organização:** Mantendo uma padronização e organização de código; <br>
  - **Trabalho em Equipe:** Trabalho em equipe para uma melhor otimização de tempo e conhecimento do time de desenvolvimento. <br>
+ - **Resiliência:** Foi necessária muita resiliência em um período em que o desenvolvimento do projeto exigiu o uso de uma linguagem (Node.js) na qual não tivemos nenhuma aula. Apesar do desempenho insatisfatório na primeira sprint, conseguimos recuperar os pontos nas sprints seguintes. <br>
