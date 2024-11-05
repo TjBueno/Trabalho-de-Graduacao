@@ -4,8 +4,7 @@
  <div style="display: inline_block">
     <img align="right" src="https://github.com/TjBueno/Trabalho-de-Gradua-o/blob/main/Thiago.jpeg" height="200">
   <div>
-  Aluno no sexto semestre do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal.
-  Minha jornada acadêmica tem sido caracterizada por uma forte inclinação aos dados.
+  Aluno no sexto semestre do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal. Minha jornada acadêmica tem sido caracterizada por uma forte inclinação aos dados. Desde o início, minha motivação para ingressar na faculdade veio da experiência e do gosto pelo trabalho com hardware, o que ampliou meu interesse pela área de tecnologia.
   <br><br>
   Minha carreira teve início quando entrei como estagiário na Opea Capital em Fevereiro de 2023, onde permaneço até o presente momento. Essa oportunidade me permitiu aplicar minhas competências de análise de dados em um contexto profissional, além de ampliar meus conhecimentos em uma área que me atrai tanto.
   <br><br>
