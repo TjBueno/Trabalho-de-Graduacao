@@ -71,6 +71,6 @@ Minhas contribuições pessoais para o projeto incluem atuar como Scrum Master, 
 ## Soft Skills
 - **Liderança e Mediação:** Facilitação de discussões e resolução de conflitos internos para manter a harmonia e o foco do time; <br>
 - **Comunicação Clara:** Promoção de transparência e alinhamento entre membros da equipe e stakeholders; <br>
-- **Empatia e Adaptabilidade:** Compreensão das dificuldades individuais e coletivas, ajustando abordagens para motivar o time; <br>
+- **Adaptabilidade:** Compreensão das dificuldades individuais e coletivas, ajustando abordagens para motivar o time; <br>
 - **Tomada de Decisão:** Capacidade de agir de forma assertiva em situações críticas, como desligamento de membros para preservar a eficiência do projeto. <br>
 
