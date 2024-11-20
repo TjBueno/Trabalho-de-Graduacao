@@ -2,7 +2,7 @@
 <div align="justify">
  <h3 align="left">Introdução </h3>
  <div style="display: inline_block">
-    <img align="right" src="https://github.com/TjBueno/Trabalho-de-Gradua-o/blob/main/Thiago.jpeg" height="200">
+    <img align="right" src="https://github.com/TjBueno/Trabalho-de-Gradua-o/blob/main/img/Thiago.jpeg" height="200">
   <div>
   Aluno no sexto semestre do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal. Minha jornada acadêmica tem sido caracterizada por uma forte inclinação aos dados. Desde o início, minha motivação para ingressar na faculdade veio da experiência e do gosto pelo trabalho com hardware, o que ampliou meu interesse pela área de tecnologia.
   <br><br>
