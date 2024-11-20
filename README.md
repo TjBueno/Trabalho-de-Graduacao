@@ -31,6 +31,7 @@
  | [3° Semestre](https://github.com/TjBueno/Trabalho-de-Gradua-o/tree/main/API03)   | Serviço de Gerenciamento e Autenticação de Usuários |
  | [4° Semestre](https://github.com/TjBueno/Trabalho-de-Gradua-o/tree/main/API04)   | Plataforma de Gestão de Créditos para Reciclagem de Óleo |
  | [5° Semestre](https://github.com/TjBueno/Trabalho-de-Gradua-o/tree/main/API05)   | Sistema de Gestão de Parceiros |
+ | [6° Semestre](https://github.com/TjBueno/Trabalho-de-Gradua-o/tree/main/API06)   | IA para Analytics Empresarial |
 
  
 </div>
