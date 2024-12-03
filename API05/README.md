@@ -9,7 +9,7 @@
 <div align="justify">
   Parceiro acadêmico: Oracle
   <br><br>
-  Problema: O desafio surgiu da necessidade de automatizar e simplificar o gerenciamento dos parceiros registrados no programa Oracle PartnerNetwork. A proposta foi desenvolver um sistema em plataforma mobile que permitisse o cadastro de novos parceiros, a atualização de informações, o acompanhamento do desenvolvimento de competências dos parceiros e a geração de relatórios relevantes.
+  Problema: A Oracle enfrenta dificuldades no gerenciamento eficiente de seus parceiros registrados no programa Oracle PartnerNetwork. A ausência de um sistema automatizado que facilite essa gestão tem tornado o processo mais trabalhoso e menos eficaz, dificultando o acompanhamento do progresso dos parceiros na obtenção de especializações e no aumento de sua relevância no mercado. Esses desafios impactam diretamente a capacidade da empresa de fortalecer o programa e de oferecer suporte estratégico aos seus parceiros no setor de tecnologia.
   <br><br>
   Projeto: O projeto consiste em um sistema de gestão de parceiros para a Oracle em plataforma mobile. Este sistema é responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes.
   <br>
@@ -76,7 +76,5 @@ Apesar de ser uma aplicação mobile, o backend não varia muito, então durante
 
 
 ## Soft Skills
- - **Resiliência:** Dificuldades e adversidades foram encaradas ao longo do projeto com firmeza e persistência, mantendo o compromisso com as metas e buscando soluções alternativas para superar barreiras.; <br>
- - **Organização:** Mantendo uma padronização e organização de código; <br>
- - **Resolução de problemas:** Durante o desenvolvimento, dificuldades e desafios relacionados à linguagem e à aplicação, bem como problemas internos no grupo, exigiram identificação rápida e soluções eficazes para que tudo fosse entregue conforme o planejado.. <br>
+ Não usei nenhuma soft skill durante esse API, pois o projeto era simples, necessitando apenas das mesmas tecnologias de semestres anteriores, e a equipe não encontrou nenhuma dificuldade.
 
