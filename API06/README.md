@@ -9,7 +9,7 @@
 <div align="justify">
   Parceiro acadêmico: Dom Rock
   <br><br>
-  Problema: Sugerido pela companhia Dom Rock, especializada no ramo de tecnologia, com ênfase em Data Lakes e Inteligência Artificial, o desafio apresentado foi o grande potencial gerado pelas Inteligências Artificiais no mercado, que ainda não foi totalmente aproveitado. Para a execução do projeto, foi fornecido um banco de dados contendo avaliações de produtos, e propôs-se a criação de um chatbot direcionado para essa área.
+  Problema: A empresa enfrenta a necessidade de otimizar a análise de dados comerciais e feedbacks de clientes, especialmente os qualitativos, como comentários e depoimentos. Atualmente, a interpretação dessas informações exige o uso de dashboards complexos e gráficos, o que pode dificultar o acesso a insights por parte de usuários menos técnicos. Essa barreira compromete a agilidade na tomada de decisões e a compreensão detalhada sobre o desempenho de produtos e a opinião dos consumidores, evidenciando a necessidade de uma solução que simplifique esse processo e o torne mais acessível.
   <br><br>
   Projeto: A solução idealizada envolve a criação de um chatbot fundamentado em IA generativa, focado na análise de dados comerciais e avaliações de clientes. O objetivo principal é simplificar a compreensão dos dados qualitativos (comentários dos consumidores) sem a necessidade de utilizar painéis complexos ou gráficos. O chatbot tem a capacidade de responder a perguntas específicas sobre o desempenho dos produtos e as opiniões dos consumidores, fornecendo respostas em linguagem natural, de maneira clara, concisa e direta.
   <br>
@@ -61,16 +61,13 @@ Minhas contribuições pessoais para o projeto incluem atuar como Scrum Master, 
 
 
 ## Hard Skills
-- **Gestão de Ferramentas Ágeis:** Uso de ferramentas como Jira para planejamento, acompanhamento e gestão das Sprints; <br>
-- **Controle de Versionamento:** Implementação e gerenciamento do Gitflow, garantindo organização e colaboração no uso de Git e GitHub; <br>
-- **Análise de Métricas:** Interpretação e monitoramento de burndown charts e indicadores de desempenho do time; <br>
-- **Definição de Arquitetura:** Estruturação do projeto e documentação de processos técnicos no Readme.md. <br>
+- **Gestão de Ferramentas Ágeis:** Uso de ferramentas como Jira para planejamento, acompanhamento e gestão das Sprints: Sei fazer com autonomia; <br>
+- **Controle de Versionamento:** Implementação e gerenciamento do Gitflow, garantindo organização e colaboração no uso de Git e GitHub: Sei fazer com autonomia; <br>
+- **Análise de Métricas:** Interpretação e monitoramento de burndown charts e indicadores de desempenho do time: Sei fazer com autonomia; <br>
+- **Definição de Arquitetura:** Estruturação do projeto e documentação de processos técnicos no Readme.md: Sei fazer com autonomia <br>
 
 
 
 ## Soft Skills
-- **Liderança e Mediação:** Facilitação de discussões e resolução de conflitos internos para manter a harmonia e o foco do time; <br>
-- **Comunicação Clara:** Promoção de transparência e alinhamento entre membros da equipe e stakeholders; <br>
-- **Adaptabilidade:** Compreensão das dificuldades individuais e coletivas, ajustando abordagens para motivar o time; <br>
-- **Tomada de Decisão:** Capacidade de agir de forma assertiva em situações críticas, como desligamento de membros para preservar a eficiência do projeto (Um exemplo foi o desligamento de um integrane do grupo por descumprimento das regras de permanência no grupo). <br>
+- **Tomada de Decisão:** Capacidade de agir de forma assertiva em situações críticas, como desligamento de membros para preservar a eficiência do projeto (Um exemplo foi o desligamento de dois integrantes do grupo por descumprimento das regras de permanência). <br>
 
