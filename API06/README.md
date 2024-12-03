@@ -64,7 +64,7 @@ Minhas contribuições pessoais para o projeto incluem atuar como Scrum Master, 
 - **Gestão de Ferramentas Ágeis:** Uso de ferramentas como Jira para planejamento, acompanhamento e gestão das Sprints: Sei fazer com autonomia; <br>
 - **Controle de Versionamento:** Implementação e gerenciamento do Gitflow, garantindo organização e colaboração no uso de Git e GitHub: Sei fazer com autonomia; <br>
 - **Análise de Métricas:** Interpretação e monitoramento de burndown charts e indicadores de desempenho do time: Sei fazer com autonomia; <br>
-- **Definição de Arquitetura:** Estruturação do projeto e documentação de processos técnicos no Readme.md: Sei fazer com autonomia <br>
+- **Definição de Arquitetura:** Estruturação do projeto e documentação de processos técnicos no Readme.md: Sei fazer com autonomia. <br>
 
 
 
