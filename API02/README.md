@@ -9,7 +9,7 @@
 <div align="justify">
   Parceiro acadêmico: TrackCash
   <br><br>
-  Problema: O desafio, proposto pela empresa Track Cash, era desenvolver um sistema para realizar a conciliação financeira dos clientes que utilizam suas plataformas, abrangendo tanto vendedores de lojas online quanto físicas. Para viabilizar esse processo, era necessário coletar dados sobre essas vendas, o que exigia que os clientes configurassem autorizações específicas. Essas autorizações permitiam ao sistema acessar APIs e planilhas de maneira automatizada, por meio do uso de tokens e credenciais de acesso. Assim, o sistema tem a responsabilidade de armazenar essas informações de usuário/senha e tokens.
+  Problema: O problema identificado estava relacionado às dificuldades no controle de seus canais de venda e usuários, onde a ausência de um sistema automatizado para o gerenciamento dos dados financeiros resultava em atrasos e outros impactos negativos para a empresa. 
   <br><br>
   Projeto: O tema desenvolvido envolve vendedores de lojas online e físicas. Para realizar o processo de conciliação financeira, precisa-se das informações dessas vendas. Para isso, os vendedores configuram seus dados, concedendo autorização para que o sistema acesse APIs e planilhas de forma automatizada. Essas autorizações são concedidas por meio da recepção de tokens e usuários de acesso.
   <br><br>
@@ -61,7 +61,4 @@ Durante o projeto, atuei como Desenvolvedor, seguindo a Metodologia Ágil Scrum.
 
 
 ## Soft Skills
- - **Comunicação:** Comunicação de forma clara e assertiva para passar os feedbacks aos colegas de equipe e para as apresentações das sprints; <br>
- - **Organização:** Mantendo uma padronização e organização de código; <br>
- - **Trabalho em Equipe:** Trabalho em equipe para uma melhor otimização de tempo e conhecimento do time de desenvolvimento. <br>
  - **Adaptação:** Foi um semestre onde foi introduzida uma nova linguagem (Java) e uma nova IDE (Netbeans), então precisei me adaptar para conseguir atender as expectativas do cliente e do scrum team. <br>
