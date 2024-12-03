@@ -9,7 +9,7 @@
 <div align="justify">
   Parceiro acadêmico: Greenneat
   <br><br>
-  Problema: O projeto "Sistema Circular de Produção de Saneantes a partir de Óleo Recuperado" tinha como objetivo engajar os agentes envolvidos na cadeia de descarte e reciclagem do óleo de fritura usado. O desafio era desenvolver uma plataforma para gerenciar créditos destinados aos estabelecimentos cadastrados, que seriam atribuídos no momento da coleta do óleo pelo parceiro da Greenneat. Esses créditos poderiam, então, ser usados para adquirir saneantes na loja virtual.
+  Problema: A empresa enfrenta dificuldades na organização e no engajamento dos agentes envolvidos na cadeia de descarte e reciclagem do óleo de fritura usado. A ausência de um sistema estruturado para coordenar o processo de coleta e incentivar a entrega do óleo tem resultado em baixa adesão dos participantes e dificuldade para atingir as metas de reciclagem. Esses desafios comprometem a eficiência na obtenção da matéria-prima necessária para a fabricação de seus produtos sustentáveis e limitam o impacto positivo que busca gerar no meio ambiente.
   <br><br>
   Projeto: O projeto tem como objetivo abordar a problemática da baixa taxa de reutilização de óleo vegetal no Brasil, estimada em meros 2% do consumo total. Essa eliminação é comumente realizada por estabelecimentos gastronômicos e recolhida por cooperativas ou profissionais independentes, sendo então encaminhada para instalações de produção de biodiesel. O Sistema Circular de Produção de Produtos de Limpeza a partir de Óleo Reciclado busca engajar os diversos participantes da cadeia de descarte e reaproveitamento do óleo de cozinha usado. O grande desafio reside em elaborar uma plataforma que administre pontos concedidos aos colaboradores da Greenneat, encarregados da coleta nos locais registrados. Esses pontos poderão ser posteriormente empregados na aquisição de produtos de limpeza na loja online, incentivando a reutilização do óleo e fomentando a preservação ambiental.
   <br>
@@ -94,7 +94,4 @@ Durante o meu trabalho com Node.js, concentrei-me em aprimorar a eficiência e a
 
 
 ## Soft Skills
- - **Comunicação:** Comunicação de forma clara e assertiva para passar os feedbacks aos colegas de equipe e para as apresentações das sprints; <br>
- - **Organização:** Mantendo uma padronização e organização de código; <br>
- - **Trabalho em Equipe:** Trabalho em equipe para uma melhor otimização de tempo e conhecimento do time de desenvolvimento. <br>
- - **Criatividade:** Minha capacidade criativa foi explorada ao contribuir para a criação do backend com novas soluções e para resolver bugs no decorrer do projeto. <br>
+ Não usei nenhuma soft skill durante esse API, pois o projeto era simples, necessitando apenas das mesmas tecnologias de semestres anteriores, e a equipe não encontrou nenhuma dificuldade.
