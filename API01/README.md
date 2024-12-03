@@ -74,7 +74,7 @@ Neste projeto desempenhei o papel de desenvolvedor, desenvolvendo paginas e ajud
 - **Manipulação do Flask:** Sei fazer com auxílio de consultas; <br>
 - **Criação de Wireframe com Figma:** Sei fazer com auxílio de consultas; <br>
 - **Edição de imagens com Canva:** Sei fazer com auxílio de consultas; <br>
-- **Controle de versão com o Github:** Sei fazer com auxílio de consultas. <br>
+- **Controle de versão com o Github:** Sei fazer com autonomia. <br>
 
 
 ## Soft Skills
